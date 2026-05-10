@@ -12,10 +12,8 @@ out/
 .gradle/
 gradle-wrapper.jar
 
-# IntelliJ IDEA — personal/generated files
-.idea/workspace.xml
-.idea/shelf/
-.idea/*.iws
+# IntelliJ IDEA
+.idea/
 *.iml
 
 # macOS
